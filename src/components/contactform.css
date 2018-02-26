@@ -1,0 +1,34 @@
+#center{
+	width: 900px;
+	margin: 40px auto;
+	background-color: white;
+	box-shadow: 0 0 12px 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#other{
+	width: 50%;
+	margin: 2px;
+}
+
+form .btn-success{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+form .btn-danger{
+	margin-top: 20px;
+	margin-left: 450px;
+}
+
+form #name, form #anything, form #email{
+	width: 50%;
+	margin-left: 150px;
+	margin-top: 20px;
+}
+
+form #usr1, form #usr2, form #usr3{
+	margin-left: 150px;
+	margin-top: 20px;
+}
